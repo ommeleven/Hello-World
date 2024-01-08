@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="Greetings">Greetings! Welcome to Om\'s AND 102 prework and Happy New Year!</string>
+    <string name="Hello">Say Hello</string>
+</resources>
